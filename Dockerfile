@@ -32,6 +32,7 @@ RUN set -ex; \
         ssh \
 	ffmpeg \
 	chromium-browser \
+        virtualbox \
 	firefox \
         terminator \
         htop \
